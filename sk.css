@@ -1,0 +1,60 @@
+body{
+    background:linear-gradient(200deg ,#cef8ce, #f8baf8);
+}
+.cont{
+    position: relative;
+    background: #fff;
+    width:500px;
+    padding:60px;
+    border-radius: 10px;
+    margin: 250px 0 0 300px;
+    margin-left: 450px;
+    position: relative;
+}
+.s button{
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+    margin-left: 30px;
+    background: #5bccec;
+}
+.ss button{
+    border: none;
+    width: 150px;
+    padding: 5px;
+    background: #dff4f3;
+}
+input{
+    border:#cef8ce;
+    padding:5px;
+    border-radius: 5px;
+    background-color: #cef8ce;
+}
+img{
+    position: absolute;
+    left: 300px;
+    top:0;
+    border-radius: 0 10px 10px 0px;
+    
+}
+h2{
+    margin-left: 60px;
+}
+p{
+
+    margin-left: 0px;
+}
+hr{
+    width: 45px;
+}
+.hr1 hr{
+    position:absolute;
+    top:268px;
+    left: 0px;
+}
+.hr2 hr{
+    position:absolute;
+    top:270px;
+    left:180px;
+}
